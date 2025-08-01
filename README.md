@@ -12,6 +12,13 @@
   - Hotel price
 - Clean, responsive web UI using HTML, CSS, and JavaScript.
 
+  <img width="1920" height="1020" alt="Screenshot 2025-08-01 141739" src="https://github.com/user-attachments/assets/f8281dc6-f2a6-4d54-9a9c-92e1fdd6606e" />
+
+
+  <img width="1920" height="1020" alt="Screenshot 2025-08-01 141840" src="https://github.com/user-attachments/assets/c03ba5a2-8605-4085-9a6d-00765e8e5bd8" />
+
+
+
 ## 🧠 Ranking Formula
 ```
 Score = (0.4 × Flight Price)
